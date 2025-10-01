@@ -5,9 +5,6 @@ date: 2022-03-20
 author: "Oscar Martinez"
 read_time: true
 toc: true
-author_profile: true
-sidebar:
-  sticky: true
 ---
 
 
