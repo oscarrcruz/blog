@@ -6,6 +6,8 @@ author: "Oscar Martinez"
 read_time: true
 toc: true
 author_profile: true
+sidebar:
+  sticky: true
 ---
 
 
