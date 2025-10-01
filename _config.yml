@@ -14,19 +14,8 @@ author:
     - label: "TryHackMe"
       icon: "fas fa-terminal"
       url: "https://tryhackme.com/p/oskycruz"
-logo: /assets/img/logo.png
 description: "IT professional ,Cybersecurity Specialist and Problem Solver"
-google_analytics:
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-
- 
-plugins:
-  - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-   
-excerpt_separator: <!--more-->
 defaults:
   -
     scope:
@@ -42,6 +31,15 @@ defaults:
       share: false
       show_date: true
       related: false
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+   
+excerpt_separator: <!--more-->
+
+search: true
 
 
 
