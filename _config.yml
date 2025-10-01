@@ -3,13 +3,17 @@ author:
   name: "Oscar Martinez"
   avatar: "/assets/images/avatar.jpg"
   bio: "IT professional | Cybersecurity Specialist | Problem Solver"
+  location: "Raleigh, NC"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/oscar-m-78507280"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/<your-username>"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/<your-linkedin>"
+    - label: "TryHackMe"
+      icon: "fas fa-terminal"
+      url: "https://tryhackme.com/p/oskycruz"
 logo: /assets/img/logo.png
 description: "IT professional ,Cybersecurity Specialist and Problem Solver"
 google_analytics:
