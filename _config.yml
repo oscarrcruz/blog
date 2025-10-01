@@ -33,6 +33,7 @@ sidebar:
   sticky: true
 
 # Defaults for all posts
+# Defaults for all posts
 defaults:
   - scope:
       path: ""        # applies to all files
@@ -40,5 +41,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        sticky: true
 
 
