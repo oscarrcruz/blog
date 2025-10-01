@@ -27,5 +27,21 @@ plugins:
   - jekyll-paginate
    
 excerpt_separator: <!--more-->
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      author_profile: true
+      is_post: true
+      permalink: /blog/:categories/:title/
+      layout: single
+      read_time: true
+      comments: false
+      share: false
+      show_date: true
+      related: false
+
 
 
