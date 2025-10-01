@@ -7,6 +7,7 @@ description: "Exploring digital forensics processes and analyzing evidence in a 
 
 This room introduces the basics of **digital forensics**, including:  
 - Disk imaging  
+<!--more-->
 - Metadata analysis  
 - Recovery of deleted files  
 
