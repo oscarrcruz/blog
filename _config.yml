@@ -28,15 +28,4 @@ plugins:
    
 excerpt_separator: <!--more-->
 
-# Defaults for all posts
-defaults:
-  - scope:
-      path: ""        # applies to all files
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      sidebar:
-        sticky: true
-
 
