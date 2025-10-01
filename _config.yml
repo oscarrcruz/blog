@@ -1,61 +1,18 @@
 title: oscarrcruz.github.io
+author:
+  name: "Oscar Martinez"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Cybersecurity Enthusiast | TryHackMe Writeups"
+  location: "United States"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/<your-username>"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/<your-linkedin>"
 logo: /assets/img/logo.png
 description: IT professional with expertise in network engineering, vulnerability management, and cybersecurity. He holds certifications including CompTIA CySA+, Security+, Network+, A+, and CCNA, and has worked with companies like Cisco and Qualys to deliver secure and scalable solutions. Showcasing cybersecurity insights from projects and other websites.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-
-# Author settings
-author:
-  name: "Oscar Martinez"
-  avatar: "/assets/images/avatar.png" # optional, place your photo in assets/images/
-  bio: "Cybersecurity Enthusiast | Blue Team | TryHackMe Writeups"
-  location: "United States"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/<your-linkedin>"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/<your-username>"
-    - label: "TryHackMe"
-      icon: "fas fa-terminal"
-      url: "https://tryhackme.com/p/<your-profile>"
-
-# Theme settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-
-# Pagination (Recent Posts)
-paginate: 5
-paginate_path: "/page:num/"
-
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:categories/:year/:month/:day/:title/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      author: "Oscar Martinez"
-      read_time: true
-      comments: false
-      share: true
-
-# Navigation
-header_pages:
-  - index.md
-  - about.md
-
-# Markdown processing
-markdown: kramdown
-highlighter: rouge
