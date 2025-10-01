@@ -1,9 +1,12 @@
 ---
-layout: post
+layout: single
 title: "TryHackMe: Intro to Digital Forensics"
 date: 2022-03-20
-description: "Exploring digital forensics processes and analyzing evidence in a hands-on TryHackMe lab."
+author: "Oscar Martinez"
+read_time: true
+toc: true
 ---
+
 
 This room introduces the basics of **digital forensics**, including:  
 - Disk imaging  
@@ -12,3 +15,12 @@ This room introduces the basics of **digital forensics**, including:
 - Recovery of deleted files  
 
 It also includes a simple **practical example** to reinforce the theory.
+
+## What is the Osquery version?
+
+```bash
+.version
+```
+
+> Answer: **4.6.0.2**
+
