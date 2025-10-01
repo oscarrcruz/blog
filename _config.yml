@@ -28,6 +28,10 @@ plugins:
    
 excerpt_separator: <!--more-->
 
+author_profile: true
+sidebar:
+  sticky: true
+
 # Defaults for all posts
 defaults:
   - scope:
