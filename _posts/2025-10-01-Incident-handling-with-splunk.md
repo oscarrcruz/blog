@@ -4,7 +4,6 @@ title: "TryHackMe: Intro to Digital Forensics"
 date: 2022-03-20
 author: "Oscar Martinez"
 read_time: true
-toc: true
 ---
 
 
