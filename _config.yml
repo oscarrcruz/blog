@@ -17,7 +17,7 @@ author:
 logo: /assets/img/logo.png
 description: "IT professional ,Cybersecurity Specialist and Problem Solver"
 google_analytics:
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
  
 plugins:
