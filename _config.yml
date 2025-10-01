@@ -2,7 +2,7 @@ title: oscarrcruz.github.io
 author:
   name: "Oscar Martinez"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Cybersecurity Enthusiast | TryHackMe Writeups"
+  bio: "IT professional with expertise in networking, vulnerability management, and cybersecurity. He holds certifications including CompTIA CyberSecurity Analyst+ (Cysa+), Security+, Network+, A+, and CCNA, and has worked with companies like Cisco and Qualys to deliver secure and scalable solutions. Showcasing cybersecurity insights from projects and other websites."
   location: "United States"
   links:
     - label: "GitHub"
@@ -12,8 +12,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/<your-linkedin>"
 logo: /assets/img/logo.png
-description: IT professional with expertise in networking, vulnerability management, and cybersecurity. He holds certifications including CompTIA CyberSecurity Analyst+ (Cysa+), Security+, Network+, A+, and CCNA, and has worked with companies like Cisco and Qualys to deliver secure and scalable solutions. Showcasing cybersecurity insights from projects and other websites.
-show_downloads: false
+description: IT professional | Cybersecurity Specialist | Problem Solver 
 google_analytics:
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
