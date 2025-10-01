@@ -19,7 +19,7 @@ description: "IT professional ,Cybersecurity Specialist and Problem Solver"
 google_analytics:
 theme: minimal-mistakes-jekyll
 
-
+ 
 plugins:
   - jekyll-include-cache
   - jekyll-feed
