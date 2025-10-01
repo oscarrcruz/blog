@@ -1,0 +1,13 @@
+---
+layout: post
+title: "TryHackMe: Intro to Digital Forensics"
+date: 2022-03-20
+description: "Exploring digital forensics processes and analyzing evidence in a hands-on TryHackMe lab."
+---
+
+This room introduces the basics of **digital forensics**, including:  
+- Disk imaging  
+- Metadata analysis  
+- Recovery of deleted files  
+
+It also includes a simple **practical example** to reinforce the theory.
